@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Shop.List",
+    "slug": "shop-list",
+    "android": {
+      "package": "com.matheusp6.shoplist"
+    }
+  }
+}
